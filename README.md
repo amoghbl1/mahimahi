@@ -1,4 +1,4 @@
-mahimahi: a web performance measurement toolkit
+mahimahi: a web performance measurement toolkit, patched to work for fedora.
 
 # Installation for Fedora
 
